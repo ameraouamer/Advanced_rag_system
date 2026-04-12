@@ -29,4 +29,5 @@ wheels/
 
 # Environment
 .env
+.env.example
 .flaskenv
