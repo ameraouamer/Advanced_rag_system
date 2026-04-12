@@ -1,4 +1,5 @@
 Advanced RAG System with Query Decomposition & Cross-Encoder Reranking
+
 📌 Overview
 
 This project implements an advanced Retrieval-Augmented Generation (RAG) system designed to improve information retrieval from large document collections.
@@ -35,5 +36,6 @@ Improves precision over standard embedding-based retrieval
 Filters out semantically similar but irrelevant documents
 
 Clone the repo : 
+
 git clone https://github.com/your-username/advanced-rag-system.git
 cd advanced-rag-system
